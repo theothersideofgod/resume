@@ -1,4 +1,4 @@
-Lucas Jiang  
+# Lucas Jiang  
 Suzhou City, JiangSu, China  
 secretjiang@gmail.com  
 +86 180 5110 7553  
@@ -7,14 +7,14 @@ secretjiang@gmail.com
 Objective:
 ---------
 Full Stack Developer with expertise in building scalable and efficient web applications.  
-Skills in JS, CSS, HTML, React, Redux, Next.js, Node.js, Express, TypeORM, MySQL, AWS, CI/CD, unit testing, and end-to-end testing.  
+Skills in JS, CSS, HTML, React, Redux, Next.js, Node.js, Express, Nestjs, TypeORM, MySQL, AWS, CI/CD, unit testing, and end-to-end testing.  
 Problem Solving  
 Performance Driven  
 
 Skills:
 -------
 - Frontend: React, React Hooks, Redux, Next.js, React Native
-- Backend: Node.js, Express, TypeORM
+- Backend: Node.js, Express, Nestjs, TypeORM
 - Database: MySQL
 - Cloud: AWS (Amazon Web Services)
 - DevOps: CI/CD, Git
@@ -27,12 +27,12 @@ Experience:
    - Implemented and maintained scalable web applications using React and Node.js.
    - Integrated Redux for state management and enhanced application performance.
    - Utilized TypeORM to manage database interactions with MySQL.
-   - Deployed applications on AWS, implementing CI/CD pipelines.
+   - Deployed applications on AWS, implementing CI/CD.
 
 #### 2. Front-end engineer - Mobius Vision, China,JiangSu,Suzhou - 06/2016 to 02/2018
    - Developed and maintained backend services using Node.js and Express.
-   - Collaborated with frontend teams to implement efficient React components.
-   - Conducted unit testing and end-to-end testing for robust code quality.
+   - Collaborated with frontend teams to implement reusable React components.
+   - leading team member to finish project.
    - Managed version control using Git for collaborative development.
 
 Education:
@@ -45,16 +45,16 @@ Projects:
 1. Maintain the project 
 2. Develop new functions according to new requirements
 3. Maintain and develop the database according to new requirements.
-4. Use technical front-end react, back-end node koa, mysql, pm2 continuous integration tools
+4. Using react, koa, mysql, pm2.
 
 #### Real-time error monitoring and analysis tools - 06/2021 ~ 04/2022
 - Refactor the existing structure of the project using react, connect it to graphQL, complete the UI component test code, and e2e testing
 
 #### Cocoa supply and storage management system - 01/2021 ~ 06/2021
-1. react + hook development management page 
-2. wordpress development portal 
-3. nestjs + mysql development backend management system
-4. aws code continuous integration, release ec2, s3 hosting projects
+1. using react ,react hook to develop dashboard page.
+2. develop wordpress web portal.
+3. nestjs + mysql development backend management system.
+4. aws cd/ci, server on ec2, s3 hosting web site projects.
 
 #### Medicare body sampling app - 01/2019 ~ 12/2019
 1. The react native app plays the video and allows the user to collect body samples (finger prink) follow step according the video. 
@@ -65,7 +65,8 @@ Projects:
 6. Host to ecs and publish.
 
 #### Library document management system - 06/2018 ~ 12/2018
-- UI development and bug debugging technology stack: react + rematch for state manager
+1. UI development and bug debugging 
+2. technology stack: react + rematch for state manager
 
 #### Restaurant backend management system - 06/2017 ~ 05/2018
 - Develop restaurant menu management system technology stack react, firebase
