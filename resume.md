@@ -88,12 +88,12 @@ Projects:
 
 Languages:
 -----------
-- Fluent in English and [Additional Languages, if applicable]
+- Fluent in English
 
-References:
+<!-- References:
 -----------
 Available upon request.
 
 Portfolio:
 ----------
-[Include a link to your portfolio or GitHub repository, if applicable]
+[Include a link to your portfolio or GitHub repository, if applicable] -->
