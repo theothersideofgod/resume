@@ -37,49 +37,56 @@ Experience:
 
 Education:
 ----------
-1. Master in electronic - NTUST, Taiwan - 2010/07
+- Master in electronic - NTUST, Taiwan - 2010/07
 
 Projects:
 ---------
 #### Fund investment target management - 05/2022 ~ present
-1. Maintain the project 
-2. Develop new functions according to new requirements
-3. Maintain and develop the database according to new requirements.
-4. Using react, koa, mysql, pm2.
+- Maintain the project 
+- Develop new functions according to new requirements
+- Maintain and develop the database according to new requirements.
+- Using react, koa, mysql, pm2.
 
 #### Real-time error monitoring and analysis tools - 06/2021 ~ 04/2022
-- Refactor the existing structure of the project using react, connect it to graphQL, complete the UI component test code, and e2e testing
+- Refactor the existing web to react base.
+- connect it to graphQL.
+- complete the UI component test code, and e2e testing.
 
 #### Cocoa supply and storage management system - 01/2021 ~ 06/2021
-1. using react ,react hook to develop dashboard page.
-2. develop wordpress web portal.
-3. nestjs + mysql development backend management system.
-4. aws cd/ci, server on ec2, s3 hosting web site projects.
+- using react ,react hook to develop dashboard page.
+- develop wordpress web portal.
+- nestjs + mysql development backend management system.
+- aws cd/ci, server on ec2, s3 hosting web site projects.
 
 #### Medicare body sampling app - 01/2019 ~ 12/2019
-1. The react native app plays the video and allows the user to collect body samples (finger prink) follow step according the video. 
-2. And monitor whether the user's operations are correct in real time through Twilio. 
-3. Use node express to build a backend database, mobile phone data and sampling results to a third party. 
-4. Develop a web portal. 
-5. Use aws codepipeline for continuous integration. 
-6. Host to ecs and publish.
+- The react native app plays the video and allows the user to collect body samples (finger prink) follow step according the video. 
+- And monitor whether the user's operations are correct in real time through Twilio. 
+- Use node express to build a backend database, mobile phone data and sampling results to a third party. 
+- Develop a web portal. 
+- Use aws codepipeline for continuous integration. 
+- Host to ecs and publish.
 
 #### Library document management system - 06/2018 ~ 12/2018
-1. UI development and bug debugging 
-2. technology stack: react + rematch for state manager
+- UI development and bug debugging 
+- react + rematch for state manager
 
 #### Restaurant backend management system - 06/2017 ~ 05/2018
 - Develop restaurant menu management system technology stack react, firebase
 
 #### BI visual dashboard - 06/2017 ~ 07/2017
-- For the front-end part, react is used as the technology stack, antd is used as the UI interface, dva is used as status management library, and Echart is used for chart display. For the back-end part, express.js is used as the back-end architecture, mongodb is used as the database, and mongoose is used for operation database.
+- For the front-end part, react is used as the technology stack, antd is used as the UI interface, 
+- dva is used as status management library
+- Echart is used for chart display. 
+- express.js is used as the back-end architecture, mongodb is used as the database, and mongoose is used for operation database.
 
 #### Government monitoring system - 06/2017 ~ 07/2017
 - Based on the provided data, grid workers, sweepers, and related incidents are presented through Baidu map. Based on the provided real-time data and combined with Baidu Map API, a control technology stack that can be presented in real time and run in the map module is developed
 - stack: jquery, Baidu map api
 
 #### Security network security dashboard system - 02/2017 ~ 04/2017
-- Reconstruct and beautify the screen of the customer own system based on the original system, write reusable components, and develop corresponding interactive logic technology stacks according to business needs: react, redux, router, echart
+- Reconstruct and beautify the screen of the customer own system based on the original system.
+- write reusable components, and develop corresponding interactive logic.
+- using lib: react, redux, router, echart
 
 #### Insurance Company Dashboard System - 08/2016 ~ 10/2016
 - Create a dashboard planning system technology stack that starts with database access and analysis: react, redux, react router, echart
