@@ -23,13 +23,13 @@ Skills:
 Experience:
 -----------
 
-1. Front-end engineer - interactivelabs, China,JiangSu,Suzhou - 2018/03 to now
+1. Front-end engineer - interactivelabs, China,JiangSu,Suzhou - 03/2018 to present
    - Implemented and maintained scalable web applications using React and Node.js.
    - Integrated Redux for state management and enhanced application performance.
    - Utilized TypeORM to manage database interactions with MySQL.
    - Deployed applications on AWS, implementing CI/CD pipelines.
 
-2. Front-end engineer - Mobius Vision, China,JiangSu,Suzhou - 2016/06 to 2018/02
+2. Front-end engineer - Mobius Vision, China,JiangSu,Suzhou - 06/2016 to 02/2018
    - Developed and maintained backend services using Node.js and Express.
    - Collaborated with frontend teams to implement efficient React components.
    - Conducted unit testing and end-to-end testing for robust code quality.
@@ -42,6 +42,7 @@ Education:
 Projects:
 ---------
 Fund investment target management - 2022.05~now
+
 1. Maintain the project 
 2. Develop new functions according to new requirements
 3. Maintain and develop the database according to new requirements.
