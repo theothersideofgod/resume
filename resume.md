@@ -13,7 +13,7 @@ Performance Driven
 
 Skills:
 -------
-- Frontend: React, React Hooks, Redux, Next.js, React Native
+- Frontend: React, React Hooks, Redux, Next.js, React Native, sass, tailwind, webpack
 - Backend: Node.js, Express, Nestjs, TypeORM
 - Database: MySQL
 - Cloud: AWS (Amazon Web Services)
@@ -24,16 +24,15 @@ Experience:
 -----------
 
 #### 1. Front-end engineer - interactivelabs, China,JiangSu,Suzhou - 03/2018 to present
-   - Implemented and maintained scalable web applications using React and Node.js.
-   - Integrated Redux for state management and enhanced application performance.
-   - Utilized TypeORM to manage database interactions with MySQL.
-   - Deployed applications on AWS, implementing CI/CD.
+   - Start up project, research suitable library base on business needed.
+   - Worked with designers team closely to ensure 100% implement website page according UX/UI design.
+   - Developed back-end service with nestjs + typeorm according business logic.
+   - Deployed applications on AWS, implementing CI/CD for agile software development.
 
 #### 2. Front-end engineer - Mobius Vision, China,JiangSu,Suzhou - 06/2016 to 02/2018
-   - Developed and maintained backend services using Node.js and Express.
-   - Collaborated with frontend teams to implement reusable React components.
-   - leading team member to finish project.
-   - Managed version control using Git for collaborative development.
+   - Developed website and hook up api with back-end team.
+   - Lead team and guide them accomplish customer requirements.
+   - Developed website base on UX/UI design.
 
 Education:
 ----------
@@ -44,21 +43,19 @@ Projects:
 #### Fund investment target management - 05/2022 ~ present
 - Maintain the project 
 - Develop new functions according to new requirements
-- Maintain and develop the database according to new requirements.
-- Using react, koa, mysql, pm2.
+- Code clean
+- Optimal website performance issue.
 
 #### Real-time error monitoring and analysis tools - 06/2021 ~ 04/2022
-- Refactor the existing web to react base.
-- connect it to graphQL.
-- complete the UI component test code, and e2e testing.
+- Refactor website from jquery base to react base.
+- complete react component unit test, and e2e testing.
 
 #### Cocoa supply and storage management system - 01/2021 ~ 06/2021
-- using react ,react hook to develop dashboard page.
-- develop wordpress web portal.
-- nestjs + mysql development backend management system.
-- aws cd/ci, server on ec2, s3 hosting web site projects.
+- Developed website portal with wordpress.
+- Developed manager dashboard with react.
+- Developed back-end service with customer requirement.
 
-#### Medicare body sampling app - 01/2019 ~ 12/2019
+#### At-home medical exam app - 01/2019 ~ 12/2019
 - The react native app plays the video and allows the user to collect body samples (finger prink) follow step according the video. 
 - And monitor whether the user's operations are correct in real time through Twilio. 
 - Use node express to build a backend database, mobile phone data and sampling results to a third party. 
