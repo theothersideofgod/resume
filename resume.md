@@ -30,7 +30,7 @@ Experience:
    - Deployed applications on AWS, implementing CI/CD for agile software development.
 
 #### 2. Front-end engineer - Mobius Vision, China,JiangSu,Suzhou - 06/2016 to 02/2018
-   - Developed website and hook up api with back-end team.
+   - Developed website and integrated api with back-end team.
    - Lead team and guide them accomplish customer requirements.
    - Developed website base on UX/UI design.
 
