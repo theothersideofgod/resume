@@ -51,7 +51,7 @@ Projects:
 - complete react component unit test, and e2e testing.
 
 #### Cocoa supply and storage management system - 01/2021 ~ 06/2021
-- Developed website portal with wordpress.
+- Developed landing page with wordpress.
 - Developed manager dashboard with react.
 - Developed back-end service with customer requirement.
 
@@ -59,7 +59,7 @@ Projects:
 - The react native app plays the video and allows the user to collect body samples (finger prink) follow step according the video. 
 - And monitor whether the user's operations are correct in real time through Twilio. 
 - Use node express to build a backend database, mobile phone data and sampling results to a third party. 
-- Develop a web portal. 
+- Develop a landing page. 
 - Use aws codepipeline for continuous integration. 
 - Host to ecs and publish.
 
